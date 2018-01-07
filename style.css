@@ -1,0 +1,184 @@
+html, body, ul, li, h1, h2, h3, h4 {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+h1 img {
+	display: block;
+}
+img {
+	border: 0;
+}
+a {
+	color: #FEFF00;
+	text-decoration: underline;
+}
+a:hover {
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.more {
+	text-align: right;
+}
+.clear {
+	clear: both;
+}
+body {
+	background: #800000 0px 135px url(images/grad.jpg) repeat-x;
+	font: 12px arial, sans-serif;
+	color: #F09361;
+}
+#wrapper {
+	background: url(images/modelportfolio_29.jpg);
+}
+#header {
+	background: 6px 0 url(images/header_bg.gif) repeat-x;
+}
+h1 {
+	height: 95px;
+	color: #fff;
+	font-weight: normal;
+	font: 22px "harrow", "Lucida Grande", arial, sans-serif;
+	line-height: 95px;
+	text-indent: 23px;
+	width: 400px;
+}
+h1 span {
+	font-size: 30px;
+}
+
+#body {
+	background: top right url(images/body_bg.jpg) no-repeat;
+}
+
+#nav {
+	background: url(images/nav_bg.gif) repeat-x;
+	height: 40px;
+	font-size: 17px;
+}
+#nav em {
+	font-size: 22px;
+	font-style: normal;
+}
+#nav ul {
+	min-width: 780px;
+	padding: 0;
+	padding-top: 10px;
+}
+#nav li {
+	float: left;
+	background: 12px 6px url(images/bullet_nav.gif) no-repeat;
+	padding-left: 50px;
+	padding-right: 20px;
+	margin: 0;
+}
+#nav li.first {
+	background: none;
+	padding-left: 20px;
+}
+#nav a {
+	font-weight: normal;
+	color: #9A0000;
+	text-decoration: none;
+}
+#nav a:hover {
+	color: #500000;
+}
+
+#content {
+	background: #760202;
+	border: 1px solid #6A0101;
+	width: 426px;
+	margin: 48px 28px 8px 28px;
+}
+#content .i {
+	padding: 15px;
+}
+
+#content h2 {
+	font: 16px "times new roman", serif;
+	font-weight: normal;
+	color: #fff;
+	clear: both;
+}
+#content h2 strong {
+	color: #FEFF00;
+	font-weight: normal;
+}
+
+#content h2.h {
+	font-size: 12px;
+}
+
+.htop {
+	color: #FEFF00;
+}
+.hproject {
+	position: relative;
+	top: 0.5em;
+	left: -0.4em;
+}
+.hof {
+	position: relative;
+	top: -0.5em;
+	left: -1.5em;
+	color: #FEFF00;
+}
+.h2006 {
+	position: relative;
+	top: 0.1em;
+	left: -0.8em;
+	font-size: 22px;
+}
+
+#picbox-left {
+	margin: 1em 2em 1em 0;
+	background: #9A0303;
+	float: left;
+	width: 130px;
+	padding: 3px;
+}
+#picbox-left img {
+	display: block;
+}
+
+#gallery {
+	margin-top: 5px;
+	border: 1px solid #890202;
+	background: #6A0101;
+	padding: 5px;
+	margin-right: 15px;
+}
+
+#gallery img {
+	display: block;
+}
+#bigpic, #gallery .smallpic {
+	background: #9A0303;
+	padding: 4px;
+}
+
+#bigpic {
+	float: left;
+}
+#pica { margin: 0px 15px 15px 15px; }
+#picb { margin: 0px 0px 15px 5px; }
+#picc { margin: 0px 5px 5px 15px; }
+#picd { margin: 0px 0px 5px 15px; }
+.smallpic {
+	float: left;
+}
+
+#copyright {
+	text-indent: 270px;
+	padding-bottom: 14px;
+}
+
+#footer {
+	background: url(images/footer.gif) repeat-x;
+	height: 46px;
+}
